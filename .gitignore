@@ -1,6 +1,6 @@
 tmp/
-index.html_old
-NeuroStartUp.png_backup
+*.html_old
+*.png_backup
 *.db
 *.DS_Store
 
